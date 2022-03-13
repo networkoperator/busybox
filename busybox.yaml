@@ -4,7 +4,7 @@ metadata:
   name: busybox
   namespace: argocd-sumit
   annotations:
-    update: "change-1"  
+    update: "change-2"  
 spec:
   containers:
   - image: busybox
